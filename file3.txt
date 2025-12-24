@@ -1,2 +1,3 @@
 this is line 1 in file3
 this is line 2 in file3 added from main
+this is line 2 in file3 added from br2
